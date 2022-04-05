@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  align-items: center;
+  display: block;
+  justify-content: center;
+  margin-top: 100px;
+  margin-left: 200px;
+}
+
+.form{
+  width: 500px;
+  height: 200px;
+  border: 1px slateblue solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.message{
+  width: 500px;
+  min-height: 20px;
+  border: 1px slateblue solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 8px;
+}
+
